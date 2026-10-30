@@ -75,7 +75,7 @@ I translated analytical query results into actionable findings, core business in
 📄 [View Payment Performance Dashboard (PDF)](dashboard/PayFlow_-_Payment_Transactions_Dashboard.pdf)
 
 🔗 Live Looker Studio Dashboard:
-[View Dashboard](https://datastudio.google.com/s/rxvHbRuOYyk)
+[View Dashboard](https://datastudio.google.com/reporting/45e8159b-c3b3-4430-b52d-99fc68d611b4)
 
 ### 💡 Key Insights
 
